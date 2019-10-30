@@ -34,14 +34,14 @@ Name: Ruby version
 # Setting
 
 Required setting before your use
-*   Please edit the target Ruby PATH in `rbp.bat`, before starting.  You need to write all Ruby versions you want to switch. 
+*   Please edit the target Ruby PATH in `rp.bat`, before starting.  You need to write all Ruby versions you want to switch. 
 *   The Ruby path of the Windows environment variable should be set to the default Ruby path only.
 
 There is no function to register installed Ruby automatically.
 
 
 
-##  Setting items of `rb.bat` file 
+##  Setting items of `rp.bat` file 
 
 The required fields in the `rb.bat` file are shown below. Please edit the following 1, 2 and 3 items.
 
